@@ -1,0 +1,2 @@
+intall git
+intall python
